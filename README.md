@@ -1,5 +1,5 @@
 # Olá, me chamo Vitor Carneiro e sou um estudante de programação!
-<a href="https://vitor-c-silva.github.io/Projeto-DevLink/"></a>
+<a href="https://vitor-c-silva.github.io/Projeto-DevLink/" target="_blank"></a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
