@@ -1,6 +1,6 @@
 # Olá, me chamo Vitor Carneiro e sou um estudante de programação!
 <div>
-    • Atualmente estudante de Java para Back-end.
+    <h1>• Atualmente estudante de Java para Back-end.</h1>•
 </div>
 • 1° semestre em Análise e Desenvolvimento de Sistemas (ADS)
 • Apaixonado por códigos
